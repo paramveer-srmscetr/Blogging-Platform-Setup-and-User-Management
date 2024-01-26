@@ -1,8 +1,7 @@
-# React + Vite
+# React + Vite + tailwind 
+# blooging website
+#video of the website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://github.com/paramveer-srmscetr/Blogging-Platform-Setup-and-User-Management/assets/82169480/13ac7310-68c4-4349-9f7e-1d47e3f7613e
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
